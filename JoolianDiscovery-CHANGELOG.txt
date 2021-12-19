@@ -1,3 +1,11 @@
+0.7 (2015-08-11) - Monolith tweaks.
+  - Monolith scaled up 85% to give it dimensions close to the TMA-1 monolith from 2001.
+  - Monolith given a probe core, small reaction wheel, battery, internal generator.
+  - Monolith classified as a "Space Object" instead of debris.
+  - Monolith mass drasitcally reduced, to give it air-density, as mentioned in the 2010 book.
+  - Monolith texture problem fixed. Should be black again.
+  - Monolith now has top and bottom stack nodes, in addition to its surface attachment node.
+
 0.6 (2015-05-01) - KSP 1.0.1 corrections
  - Adjusted engine heat & thrust for KSP 1.0.1 compatability.
  - Converted textures to DDS format.
