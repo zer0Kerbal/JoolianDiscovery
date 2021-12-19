@@ -1,18 +1,17 @@
-﻿# Joolian Discover
+# Joolian Discovery
 
-## Part Pack
+Parts pack for Kerbal Space Program
 
-by Ed T. Toton III, aka NecroBones.
+## by Ed T. Toton III, aka NecroBones and zer0Kerbal
 
 
-Installation:
+### Installation:
 
 Simply copy the "JoolianDiscovery" folder into your GameData folder. If upgrading from a 
 previous version, be sure to delete the old one from GameData first (this is the cleanest
 option).
 
-
-Information:
+### Information:
 
 This parts pack is inspired by the USS Discovery One ship, from the 2001: A Space Odyssey
 feature film. It is not meant to be an exact replica, nor is it constructed to scale. 
