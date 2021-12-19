@@ -1,16 +1,15 @@
 {
 	"NAME": "Joolian Discovery",
 	"URL": "http://ksp.necrobones.com/files/JoolianDiscovery/JoolianDiscovery.version",
-	"DOWNLOAD": "http://ksp.necrobones.com/files/JoolianDiscovery/JoolianDiscovery-0.1.zip",
-	"_comment": "Use old-style format to keep compatibility with KSP-AVC Utility 0.3.",
+	"DOWNLOAD": "https://kerbalstuff.com/mod/240/Joolian%20Discovery",
 	"VERSION": {
 		"MAJOR": 0,
-		"MINOR": 1,
+		"MINOR": 2,
 		"PATCH": 0
 	},
-	"KSP_VERSION": {
+	"KSP_VERSION_MIN": {
 		"MAJOR": 0,
 		"MINOR": 24,
-		"PATCH": 2
+		"PATCH": 0
 	}
 }
