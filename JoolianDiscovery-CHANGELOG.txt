@@ -1,6 +1,10 @@
+0.6 (2015-05-01) - KSP 1.0.1 corrections
+ - Adjusted engine heat & thrust for KSP 1.0.1 compatability.
+ - Converted textures to DDS format.
+
 0.5 (2015-04-30) - Beta Release
  - Added more advanced SAS functions to the command pod
- - KSP 1.0 compatibility updates
+ - KSP 1.0 compatability updates
  - Re-assigned tech-tree locations.
  - Now uses LiquidFuel instead of NuclearPropellant.
 
