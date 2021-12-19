@@ -1,3 +1,9 @@
+0.4 (2014-10-30) - Beta Release
+ - Tiny bit more progress on IVA
+ - Fixed IVA seat orientations
+ - Slightly brightened exterior textures.
+ - Switched textures back to MBM format for best performance and memory usage.
+
 0.3 (2014-10-07) - Beta Release
  - Fixed texture problem in the neck-adapter part.
 
