@@ -1,5 +1,8 @@
+0.3 (2014-10-07) - Beta Release
+ - Fixed texture problem in the neck-adapter part.
+
 0.2 (2014-10-07) - Beta Release
  - Added a starter IVA (work in progress)
- - Changing versioning file to not be as picky about KSP version
+ - Changed version file to not be as picky about KSP version
 
 0.1 (2014-10-03) - Inital Beta Test
