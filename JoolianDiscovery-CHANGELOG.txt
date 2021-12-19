@@ -1,3 +1,7 @@
+0.8 (2015-08-14) - Tweaks.
+ - Added Community Tech Tree support, moving parts to more advanced tech nodes.
+ - Added a radially-attachable KAL-9999 probe core, using existing art assets.
+
 0.7 (2015-08-11) - Monolith tweaks.
   - Monolith scaled up 85% to give it dimensions close to the TMA-1 monolith from 2001.
   - Monolith given a probe core, small reaction wheel, battery, internal generator.
