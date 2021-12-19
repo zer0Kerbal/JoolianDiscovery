@@ -24,6 +24,16 @@ send a private message to NecroBones on the KSP forums. Thanks!
 
 
 
+Forum Thread:
+http://forum.kerbalspaceprogram.com/threads/95383
+
+Kerbal Stuff:
+https://kerbalstuff.com/mod/240/Joolian%20Discovery
+
+Curse.com:
+http://kerbal.curseforge.com/ksp-mods/224673-joolian-discovery
+
+
 This parts pack is being shared under the CC-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
