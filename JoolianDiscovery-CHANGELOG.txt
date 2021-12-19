@@ -1,3 +1,9 @@
+0.5 (2015-04-30) - Beta Release
+ - Added more advanced SAS functions to the command pod
+ - KSP 1.0 compatibility updates
+ - Re-assigned tech-tree locations.
+ - Now uses LiquidFuel instead of NuclearPropellant.
+
 0.4 (2014-10-30) - Beta Release
  - Tiny bit more progress on IVA
  - Fixed IVA seat orientations
