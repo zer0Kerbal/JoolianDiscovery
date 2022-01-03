@@ -17,7 +17,6 @@ PART
 	// --- node definitions ---
 	node_stack_top = 0, 1.12, 0, 0.0, 1.0, 0.0, 1
 	node_stack_bottom = 0, -1.12, 0, 0.0, -1.0, 0.0, 1
-	
 	node_attach = 0, 0, 0.68, 0, 0,-1, 1
 
 	attachRules = 1,1,1,1,0
@@ -26,11 +25,11 @@ PART
 	TechRequired = nuclearPropulsion
 	entryCost = 1600
 	cost = 850
-	category = Propulsion
+	category = FuelTank
 	subcategory = 0
 
 	title = #JoolianDiscovery-JoolianBoomTank1-titl
-	manufacturer	= #JoolianDiscovery-Agency-titl
+	manufacturer = #JoolianDiscovery-Agency-titl
 	description = #JoolianDiscovery-JoolianBoomTank1-desc
 	tags = #JoolianDiscovery-JoolianBoomTank1-tags
 
