@@ -1,12 +1,13 @@
 PART
 {
-	name = JoolianBoomTank2
+	name = JoolianBoomTank1
 	module = Part
 	author = NecroBones and zer0Kerbal
-
+	
 	MODEL
 	{
-		model = NecroBones/JoolianDiscovery/Parts/JoolianBoomTanks/joolianBoomTank2
+		model = NecroBones/JoolianDiscovery/Assets/joolianBoomTank1
+		texture = JoolianTank-Specular, NecroBones/JoolianDiscovery/Assets/JoolianTank-Specular
 		scale = 1.0, 1.0, 1.0
 	}
 	//mesh = model.mu
@@ -15,26 +16,26 @@ PART
 	bulkheadProfiles = size1
 
 	// --- node definitions ---
-	node_stack_top = 0, 2.24, 0, 0.0, 1.0, 0.0, 1
-	node_stack_bottom = 0, -2.24, 0, 0.0, -1.0, 0.0, 1
+	node_stack_top = 0, 1.12, 0, 0.0, 1.0, 0.0, 1
+	node_stack_bottom = 0, -1.12, 0, 0.0, -1.0, 0.0, 1
 	node_attach = 0, 0, 0.68, 0, 0,-1, 1
 
 	attachRules = 1,1,1,1,0
 
 	// --- editor parameters ---
 	TechRequired = nuclearPropulsion
-	entryCost = 3200
-	cost = 1700
+	entryCost = 1600
+	cost = 850
 	category = FuelTank
 	subcategory = 0
 
-	title = #JoolianDiscovery-JoolianBoomTank2-titl
+	title = #JoolianDiscovery-JoolianBoomTank1-titl
 	manufacturer = #JoolianDiscovery-Agency-titl
-	description = #JoolianDiscovery-JoolianBoomTank2-desc
-	tags = #JoolianDiscovery-JoolianBoomTank2-tags
+	description = #JoolianDiscovery-JoolianBoomTank1-desc
+	tags = #JoolianDiscovery-JoolianBoomTank1-tags
 
 	// --- standard part parameters ---
-	mass = 0.375
+	mass = 0.25
 
 	dragModelType = default
 	maximum_drag = 0.2
@@ -51,7 +52,7 @@ PART
 	RESOURCE
 	{
 		name = LiquidFuel
-		amount = 800
-		maxAmount = 800
+		amount = 400
+		maxAmount = 400
 	}
 }
