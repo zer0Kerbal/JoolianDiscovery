@@ -35,6 +35,6 @@ Curse.com:
 http://kerbal.curseforge.com/ksp-mods/224673-joolian-discovery
 
 
-This parts pack is being shared under the CC-NC-SA license:
+This parts pack is being shared under the CC BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
