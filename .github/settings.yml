@@ -252,7 +252,7 @@ milestones:
     description: progress toward Spanish (Español) <es-es.cfg> localization
     state: open
 
-  - title: localization - Mexican (Mexicano) <es-mx.cfg>
+  - title: localization - Mexican Spanish (Mexicano) <es-mx.cfg>
     description: progress toward Mexican (Mexicano) <es-mx.cfg> localization
     state: open
 
