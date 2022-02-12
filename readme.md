@@ -1,4 +1,4 @@
-﻿# Joolian Discover
+﻿# Joolian Discovery
 
 ## Part Pack
 
