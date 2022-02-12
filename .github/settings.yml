@@ -292,6 +292,10 @@ milestones:
     description: progress toward Russian (Русский) <ru.cfg> localization
     state: open
 
+  - title: Localization - Swedish (Svenska) <sw-sw.cfg>
+    description: progress toward Swedish (Svenska) <sw-sw.cfg> localization
+    state: open
+
   - title: localization - Taiwanese (国语) <zh-tw.cfg>
     description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
     state: open
