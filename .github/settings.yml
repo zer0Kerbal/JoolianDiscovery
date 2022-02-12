@@ -12,7 +12,7 @@ repository:
   name: JoolianDiscovery
 
   # A short description of the repository that will show up on GitHub
-  description: Eleven parts to construct ships inspired by the Discovery One in 2001: A Space Odyssey. For Kerbal Space Program.
+  description: "Eleven parts to construct ships inspired by the Discovery One in 2001: A Space Odyssey. For Kerbal Space Program."
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/86030-*
