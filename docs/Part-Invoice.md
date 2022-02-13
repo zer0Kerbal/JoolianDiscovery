@@ -4,7 +4,7 @@ permalink: /Part-Invoice.html
 
 # Jollian Discovery (NBJD)
 
-## Parts Invoice
+## Part Invoice
 
 [KAL.cfg]
 [JoolianPod.cfg]
