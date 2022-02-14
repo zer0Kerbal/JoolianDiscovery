@@ -116,7 +116,7 @@ This mod adds eleven custom parts
 
 >  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
 >
->  <a href="https://download.curseforge.com/">
+  <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
