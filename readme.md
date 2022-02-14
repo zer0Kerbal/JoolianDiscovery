@@ -26,11 +26,7 @@ We hope you enjoy this pack. If you have any comments or feedback, please feel f
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
 
 </br>
-<<<<<<< Updated upstream
 <img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/HeroLogo_1920x1920.png" alt="Joolian Discovery" width="50%" height="50%">
-=======
-<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/HeroLogo_1920x1920.png" alt="Lithobrake Exploration Technologies" width="50%" height="50%">
->>>>>>> Stashed changes
 
 brought to you by _KGEx_
 
@@ -38,11 +34,8 @@ brought to you by _KGEx_
 
 This mod adds eleven custom parts
 * A five-kerbal Capsule 
-<<<<<<< Updated upstream
   <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/JoolianPod_icon.png" alt="JoolianPod" width="25%" height="25%" />  
-=======
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETlander2mX3_icon.png" alt="LETlander2mX3" width="25%" height="25%" />  
->>>>>>> Stashed changes
+
 * Two: sets of large landing legs
   * "medium" will handle Mainsails
   * "large" works with Mammoths  
@@ -274,16 +267,10 @@ This mod adds eleven custom parts
 
 ## Track progress
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Kerbal Stuff:
 ~~https://kerbalstuff.com/mod/240/Joolian%20Discovery~~
-=======
+
 ### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/JoolianDiscovery/projects/)
->>>>>>> Stashed changes
-=======
-### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/JoolianDiscovery/projects/)
->>>>>>> Stashed changes
 
 **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
@@ -292,12 +279,5 @@ Kerbal Stuff:
 <a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://simpleicons.org/icons/youtube.svg" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
   <img src = "https://simpleicons.org/icons/twitch.svg" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 This parts pack is being shared under the CC-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-
