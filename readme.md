@@ -28,6 +28,7 @@ brought to you by _KGEx_
 ## Features
 
 This mod adds eleven custom parts
+
 <details>
   <summary><h3>Parts Invoice</h3></summary>
   <ul><li> Five Kerbal Command Pod
