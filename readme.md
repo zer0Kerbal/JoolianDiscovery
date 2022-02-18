@@ -152,7 +152,7 @@ This mod adds eleven custom parts
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/json/mod.json
 
 <!--- original mod stuff -->
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/95383-* "KSP Forum"
+[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/86030-* "KSP Forum"
 [MOD:org:source]: http://ksp.necrobones.com/files/JoolianDiscovery/JoolianDiscovery-0.8.zip "ksp.necrobones.com"
 [MOD:org:download]: http://spacedock.info/mod/93 "SpaceDock"
 
