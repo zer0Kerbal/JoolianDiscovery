@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "Joolian Discovery (NBJE)",
+	"NAME"		     : "Joolian Discovery (JOOL)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/JoolianDiscovery.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/JoolianDiscovery/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/Changelog.cfg",
@@ -12,9 +12,9 @@
 	"VERSION" :
 	{
 		"MAJOR" : 0,
-		"MINOR" : 8,
-		"PATCH" : 9,
-		"BUILD" : 9
+		"MINOR" : 9,
+		"PATCH" : 0,
+		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{

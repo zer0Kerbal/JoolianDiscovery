@@ -15,8 +15,6 @@ updated: 07 Feb 2022 -->
 
 Eleven parts to construct ships inspired by the `Discovery One` in `2001: A Space Odyssey`. For Kerbal Space Program.
 
-
-
 ### Information:
 
 This parts pack is inspired by the USS Discovery One ship, from the 2001: A Space Odyssey feature film. It is not meant to be an exact replica, nor is it constructed to scale. However, it's meant to be highly reminiscent of that ship, with the correct general overall shape and proportions. After searching for similar models made by other KSP modders, and finding that little had been done, I decided that it fell to me to fill the void. :)
@@ -26,41 +24,13 @@ We hope you enjoy this pack. If you have any comments or feedback, please feel f
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
 
 </br>
-<img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" alt="NecroBones logo" width="15%" height="15%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/HeroLogo_1920x1920.png" alt="Joolian Discovery" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/635479656245443969.jpg" alt="Joolian Discovery" zoom="75%">
 
 brought to you by _KGEx_
 
 ## Features
 
 This mod adds eleven custom parts
-* A five-kerbal Capsule 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETpod2m4k_icon.png" alt="LETpod2m4k" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/JoolianPod_icon.png" alt="JoolianPod" width="25%" height="25%" />  
-
-* Two: sets of large landing legs
-  * "medium" will handle Mainsails
-  * "large" works with Mammoths  
-> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETleg1_icon.png" alt="LETleg1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETleg2_icon.png" alt="LETleg2" width="25%" height="25%" />
-* Three large stackable and radial parachutes  
-  > <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETchute1m_icon.png" alt="LETchute1m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETchute2m_icon.png" alt="LETchute2m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETchuteR1_icon.png" alt="LETchuteR1" width="25%" height="25%" />
-* Three (1m, 2m and 3m) static ladders  
-  > <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETladderF1m_icon.png" alt="LETladderF1m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETladderF2m_icon.png" alt="LETladderF2m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETladderF3m_icon.png" alt="LETladderF3m" width="25%" height="25%" />
-* Two (5m and 8m) very long deployable ladders
-  
-  > <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETladderD5m_icon.png" alt="LETladderD5m" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETladderD8m_icon.png" alt="LETladderD8m" width="25%" height="25%" />
-* Three service bays / rover garages.
-  
-  > <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETbay2mExp_icon.png" alt="LETbay2mExp" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETbay2mOct1_icon.png" alt="LETbay2mOct1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/GameData/NecroBones/JoolianDiscovery/Parts/%40thumbs/LETbay2mOct2_icon.png" alt="LETbay2mOct2" width="25%" height="25%" />
-
-
-### Part of the NecroBones suite of mods, that work nicely together:**
-
-* [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
-* [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
-* [Color Coded Canisters](http://spacedock.info/mod/91) (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds)
-* [Fuel Tanks Plus](http://spacedock.info/mod/92) (collection of large stock-like tanks with Color Coded Canister style)
-* [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
-* [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
-  
 ### [Image Gallery](https://imgur.com/a/FxPp9)
 
 ---
@@ -265,19 +235,23 @@ This mod adds eleven custom parts
 
 ---
 
-## Track progress
+#### Part of the NecroBones suite of mods, that work nicely together:**
 
-Kerbal Stuff:
-~~https://kerbalstuff.com/mod/240/Joolian%20Discovery~~
+* [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
+* [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
+* [Color Coded Canisters](http://spacedock.info/mod/91) (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds)
+* [Fuel Tanks Plus](http://spacedock.info/mod/92) (collection of large stock-like tanks with Color Coded Canister style)
+* [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
+* [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
 
-### issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/JoolianDiscovery/projects/)
+#### Track progress
 
-**[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+>
+>#### Issues [here][MOD:issue] - Projects [here](https://github.com/zer0Kerbal/JoolianDiscovery/projects/)
+>
+> **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 <div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
 <a href = "https://twitter.com/zer0Kerbal"><img src = "https://simpleicons.org/icons/twitter.svg" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
 <a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://simpleicons.org/icons/youtube.svg" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
   <img src = "https://simpleicons.org/icons/twitch.svg" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
-
-This parts pack is being shared under the CC-NC-SA license:
-http://creativecommons.org/licenses/by-nc-sa/4.0/
