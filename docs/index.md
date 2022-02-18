@@ -1,7 +1,6 @@
 # 
 
 ## Categories
-- [LegalMumboJumbo](./LegalMumboJumbo/index.md)
 - [ReleaseNotes](./ReleaseNotes/index.md)
 
 ## Documents
