@@ -30,7 +30,7 @@ brought to you by _KGEx_
 This mod adds eleven custom parts
 
 <details><div>
-  <summary><h3>Parts Invoice</h3></summary>
+  <summary><h3>Parts Invoice</h3> <i> images are not to scale</i></summary>
   <ul><li> Five Kerbal Command Pod
   <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianPod_icon.png?raw=true" alt="JoolianPod_icon.png" style="zoom:50%;" /></li>
 <li> Systems Segment
