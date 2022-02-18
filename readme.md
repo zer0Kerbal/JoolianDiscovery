@@ -24,7 +24,7 @@ We hope you enjoy this pack. If you have any comments or feedback, please feel f
 ## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
 
 </br>
-<img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/635479656245443969.jpg" alt="Joolian Discovery" zoom="75%">
+<img src="https://i.imgur.com/FL7bnS3.jpg" alt="Joolian Discovery" zoom="75%">
 
 brought to you by _KGEx_
 
