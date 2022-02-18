@@ -8,7 +8,16 @@
 
 ## 0.9.0.0 - Adoption - 
 
-# Part Thumbnail Images
+### Add Compatibility Patches
+
+* MechJeb
+* Kerbal Engineer
+* kOS compatibility
+* closes #58 - [Request]: MechJeb compatibility
+* closes #57 - [Request]: Kerbal Engineer compatibility
+* closes #56 - [Request]: kOS compatibility
+
+### Part Thumbnail Images
 
 * @thumbs list
   * [x] [KAL.cfg]
