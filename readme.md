@@ -8,7 +8,7 @@ updated: 07 Feb 2022 -->
 
 [![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![pages-build-deployment](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/pages/pages-build-deployment)
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd] [![GitHub Pages](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master&style=plastic&color=black&labelColor=black)](https://zer0kerbal.github.io/JoolianDiscovery/)
 
 Eleven parts to construct ships inspired by the `Discovery One` in `2001: A Space Odyssey`. For Kerbal Space Program.
 
