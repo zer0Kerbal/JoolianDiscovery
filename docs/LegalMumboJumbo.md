@@ -12,6 +12,6 @@ updated: 01 Feb 2022
 
 # Jollian Discovery (NBJD)
 
-- ![LegalMumboJumbo](\LegalMumboJumbo\FORUM-specific-permission.png)
+- ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-specific-permission.png)
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
