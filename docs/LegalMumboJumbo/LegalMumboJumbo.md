@@ -14,4 +14,4 @@ updated: 01 Feb 2022
 ![Legal Mumbo Jumbo](FORUM-specific-permission.png)
 
 
-<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal>
+<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
