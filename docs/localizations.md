@@ -88,5 +88,4 @@ has been translated into the following languages:
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 
-
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal>
