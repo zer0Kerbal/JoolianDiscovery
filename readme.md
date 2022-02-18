@@ -29,7 +29,7 @@ brought to you by _KGEx_
 
 This mod adds eleven custom parts
 
-<details>
+<details><div>
   <summary><h3>Parts Invoice</h3></summary>
   <ul><li> Five Kerbal Command Pod
   <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianPod_icon.png?raw=true" alt="JoolianPod_icon.png" style="zoom:50%;" /></li>
@@ -48,8 +48,8 @@ This mod adds eleven custom parts
 <li> KAL-9999 Algorithmic Heuristic Computer
   <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianKALcore_icon.png?raw=true" alt="JoolianKALcore_icon.png" style="zoom:50%;" /></li>
 <li> Mysterious Alien Monolith
-  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/joolianMonolith_icon.png?raw=true" alt="joolianMonolith_icon.png" style="zoom:50%;" /></li></ul>
-</detail>
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/joolianMonolith_icon.png?raw=true" alt="joolianMonolith_icon.png" style="zoom:50%;" /></li></ul></div>
+</details>
 
 ---
 
