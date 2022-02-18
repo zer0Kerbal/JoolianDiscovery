@@ -4,24 +4,21 @@ created: 01 Oct 2019
 updated: 07 Feb 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
-
-[![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
-
-
-
 # Joolian Discovery (JOOL)
+
+[![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 Eleven parts to construct ships inspired by the `Discovery One` in `2001: A Space Odyssey`. For Kerbal Space Program.
 
-### Information:
+## Information (by [`NecroBones`][LINK:necrobones])
+>
+>This parts pack is inspired by the USS Discovery One ship, from the 2001: A Space Odyssey feature film. It is not meant to be an exact replica, nor is it constructed to scale. However, it's meant to be highly reminiscent of that ship, with the correct general overall shape and proportions. After searching for similar models made by other KSP modders, and finding that little had been done, I decided that it fell to me to fill the void. :)
+>
+>We hope you enjoy this pack. If you have any comments or feedback, please feel free to send a private message to NecroBones on the KSP forums. Thanks!
 
-This parts pack is inspired by the USS Discovery One ship, from the 2001: A Space Odyssey feature film. It is not meant to be an exact replica, nor is it constructed to scale. However, it's meant to be highly reminiscent of that ship, with the correct general overall shape and proportions. After searching for similar models made by other KSP modders, and finding that little had been done, I decided that it fell to me to fill the void. :)
-
-We hope you enjoy this pack. If you have any comments or feedback, please feel free to send a private message to NecroBones on the KSP forums. Thanks!
-
-## By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
+### By [`zer0Kerbal`][LINK:zer0Kerbal], originally by Ed T. Toton III a.ka. [`NecroBones`/`Orvidius`][LINK:necrobones]
 
 </br>
 <img src="https://i.imgur.com/FL7bnS3.jpg" alt="Joolian Discovery" zoom="75%">
@@ -31,7 +28,27 @@ brought to you by _KGEx_
 ## Features
 
 This mod adds eleven custom parts
-### [Image Gallery](https://imgur.com/a/FxPp9)
+<details><div>
+  <summary><h3>Parts Invoice</h3></summary>
+  <ul><li> Five Kerbal Command Pod
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianPod_icon.png?raw=true" alt="JoolianPod_icon.png" style="zoom:50%;" /></li>
+<li> Systems Segment
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianSystems_icon.png?raw=true" alt="JoolianSystems_icon.png" style="zoom:50%;" /></li>
+<li> Three Fuel Segments
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianBoomTank1_icon.png?raw=true" alt="JoolianBoomTank1_icon.png" style="zoom: 50%;" /> <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianBoomTank2_icon.png?raw=true" alt="JoolianBoomTank2_icon.png" style="zoom: 50%;" /> <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianBoomTank3_icon.png?raw=true" alt="JoolianBoomTank3_icon.png" style="zoom:50%;" /></li>
+<li> CX1 Comm Base & Fuel Segment
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianCommBox_icon.png?raw=true" alt="JoolianCommBox_icon.png" style="zoom:50%;" /></li>
+<li> AE-35 Antenna Array
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/joolianCommTower_icon.png?raw=true" alt="joolianCommTower_icon.png" style="zoom:50%;" /></li>
+<li> Propulsion Section
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianMainTank_icon.png?raw=true" alt="JoolianMainTank_icon.png" style="zoom:50%;" /></li>
+<li> Nuclear Engine Unit
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianEngine_icon.png?raw=true" alt="JoolianEngine_icon.png" style="zoom:50%;" /> </li>
+<li> KAL-9999 Algorithmic Heuristic Computer
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/JoolianKALcore_icon.png?raw=true" alt="JoolianKALcore_icon.png" style="zoom:50%;" /></li>
+<li> Mysterious Alien Monolith
+  <img src="https://github.com/zer0Kerbal/JoolianDiscovery/blob/master/GameData/NecroBones/JoolianDiscovery/Parts/@thumbs/joolianMonolith_icon.png?raw=true" alt="joolianMonolith_icon.png" style="zoom:50%;" /></li></ul></div>
+</detail>
 
 ---
 
@@ -39,7 +56,7 @@ This mod adds eleven custom parts
 >
 > * This pack is essentially feature and part complete.
 > * There will be no additional parts.
-> * There will be no more major version (0.5.0.0) after this one.
+> * This should be the last major version (0.9.0.0).
 > * Any minor releases will be for additional patches and improvements
 > * I have not personally tested the patches
 
@@ -53,22 +70,25 @@ This mod adds eleven custom parts
 > * Custom IVA's
 > * Alternative Tech Tree integration
 > * Tech Tree Balancing
+> * Part balancing
+> * RSS sized version
+> * Compatibility patches (like life-support, Deep-Freeze, Kerbalism, etc)
 > * Variant textures
 
 ---
 
-### Localization - _work in progress_
+### Localization
 
->![][EN] English
->[ ]  ***your translation here***
+>![English][EN] English
+>[ ]  __your translation here__
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. __Additions and corrections welcome!__
 
 ---
 
 ### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 ---
 
@@ -84,7 +104,7 @@ This mod adds eleven custom parts
 
 #### Use
 
->  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+> CurseForge/OverWolf App (currently does not install dependencies) [^3]  
 >
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
