@@ -1,15 +1,19 @@
-# Joolian Discovery
+<!-- readme.md v1.6.5.6
+JoolianDiscovery (JOOL)
+created: 01 Oct 2019
+updated: 07 Feb 2022 -->
 
-Parts pack for Kerbal Space Program
+<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
-## by Ed T. Toton III, aka NecroBones and zer0Kerbal
+[![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 
-### Installation:
 
-Simply copy the "JoolianDiscovery" folder into your GameData folder. If upgrading from a 
-previous version, be sure to delete the old one from GameData first (this is the cleanest
-option).
+# Joolian Discovery (JOOL)
+
+Eleven parts to construct ships inspired by the `Discovery One` in `2001: A Space Odyssey`. For Kerbal Space Program.
 
 ### Information:
 
@@ -192,22 +196,62 @@ This mod adds eleven custom parts
 [thread:cls]: http://forum.kerbalspaceprogram.com/index.php?showtopic=192130-* "Connected Living Space"
 [thread:rc]: http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0 "RealChute"
 
+<!-- financial support -->
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
+[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
+[PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
+[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
+[GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
+[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
 
-We hope you enjoy this pack. If you have any comments or feedback, please feel free to
-send a private message to NecroBones on the KSP forums. Thanks!
+<!-- Localization -->
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
+[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
+[LINK:necrobones]: https://forum.kerbalspaceprogram.com/index.php?/profile/105424-necrobones/ "NecroBones"
 
+<!-- footnotes -->
+[^1]: ***may*** work on other versions (YMMV)
+[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: this isn't a mod. ;P
 
-Forum Thread:
-http://forum.kerbalspaceprogram.com/threads/95383
+---
 
-Kerbal Stuff:
-~~https://kerbalstuff.com/mod/240/Joolian%20Discovery~~
+#### Part of the NecroBones suite of mods, that work nicely together:**
 
-Curse.com:
-http://kerbal.curseforge.com/ksp-mods/224673-joolian-discovery
+* [Modular Rocket Systems](http://spacedock.info/mod/86) (stock-alike parts pack, NASA-like alternatives, and filling the gaps) (Also: [LITE version](http://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE))
+* [SpaceY Heavy Lifters Parts Pack](http://spacedock.info/mod/88) (stock-balanced large rocket parts, 5m parts, large SRBs) (Also: [Expanded upgrade](http://spacedock.info/mod/89/SpaceY%20Expanded))
+* [Color Coded Canisters](http://spacedock.info/mod/91) (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds)
+* [Fuel Tanks Plus](http://spacedock.info/mod/92) (collection of large stock-like tanks with Color Coded Canister style)
+* [ColorFuel Lines](http://spacedock.info/mod/94) (color-selctable fuel lines)
+* [Lithobrake Exploration Technologies](http://spacedock.info/mod/93) (lander parts, large chutes/legs/ladders/etc)
 
+#### Track progress
 
-This parts pack is being shared under the CC-NC-SA license:
-http://creativecommons.org/licenses/by-nc-sa/4.0/
+>
+>#### Issues [here][MOD:issue] - Projects [here](https://github.com/zer0Kerbal/JoolianDiscovery/projects/)
+>
+> **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
+<div style="border:0.5px solid #BADA55; background-color: #FF7E03; color: #FF0000; text-align:center"></br>
+<a href = "https://twitter.com/zer0Kerbal"><img src = "https://simpleicons.org/icons/twitter.svg" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
+<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://simpleicons.org/icons/youtube.svg" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal">
+  <img src = "https://simpleicons.org/icons/twitch.svg" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></br></br></div>
