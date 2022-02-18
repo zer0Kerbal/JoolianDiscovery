@@ -6,8 +6,8 @@ updated: 07 Feb 2022 -->
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 # Joolian Discovery (JOOL)
 
-[![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]
+[![JoolianDiscovery][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 Eleven parts to construct ships inspired by the `Discovery One` in `2001: A Space Odyssey`. For Kerbal Space Program.
