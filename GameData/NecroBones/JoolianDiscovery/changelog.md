@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Joolian Discovery (JOOL)                                      |
-| ---------- | ------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                               |
-| author     | NecroBones and zer0Kerbal                                     |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/-*)    |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/JoolianDiscovery)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/JoolianDiscovery) |
-| spacedock  | (https://spacedock.info/mod/95)                               |
-| ckan       | JoolianDiscovery                                              |
+| modName    | Joolian Discovery (JOOL)                                         |
+| ---------- | ---------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0                                                  |
+| author     | NecroBones and zer0Kerbal                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/206954-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/JoolianDiscovery)      |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/JoolianDiscovery)    |
+| spacedock  | (https://spacedock.info/mod/95)                                  |
+| ckan       | JoolianDiscovery                                                 |
 
 ## 0.9.0.0 - Adoption - I can do that Dave
 
@@ -286,7 +286,7 @@
 * closes #53 -  Part Localization
 * closes #54 -  JoolianBoomTank1.cfg
 * closes #55 -  Part Thumbnail Images
-* updates #24 -   Localization - Master 
+* updates #24 -   Localization - Master
 
 ## Version 0.8.9.9 - for KSP 1.12.3 [17-Feb-2022]
 
