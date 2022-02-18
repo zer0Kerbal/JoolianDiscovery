@@ -4,12 +4,12 @@ permalink: /localizations.html
 
 <!--
 Localizations.md v1.0.1.0
-Lithobrake Exploration Technology (LET)
+Joolian Discovery (JOOL) 
 created: 01 Feb 2022
 updated: 01 Feb 2022
 -->
 
-# Lithobrake Exploration Technology (LET)
+# Joolian Discovery (JOOL) 
 
 has been translated into the following languages:
 - [X]  [![American English][EN]][EN] [American English][EN] <us-en.cfg>  
