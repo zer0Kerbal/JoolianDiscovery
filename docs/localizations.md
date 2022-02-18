@@ -1,5 +1,6 @@
 ---
-permalink: /localizations.html
+permalink: /Localizations.html
+title: Localizations
 ---
 
 <!--
