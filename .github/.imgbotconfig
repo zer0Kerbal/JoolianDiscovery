@@ -2,10 +2,10 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "/GameData/*",
-        "GameData/**",
-        "**/GameData/**",
-        "docs/LegalMumboJumbo/*"
+        "docs/LegalMumboJumbo/*",
+        "/source/*",
+        "**/Assets/**",
+        "**/@Thumbs/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
